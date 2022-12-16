@@ -2,7 +2,7 @@ import React,{useState,useEffect}  from 'react';
 import HighchartsReact from "highcharts-react-official"
 import Highcharts  from "highcharts"
 import axios from 'axios'
-const url = 'http://13.233.160.184:3001/';
+const url = 'https://13.233.160.184:3001/';
 
 
 
